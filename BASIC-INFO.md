@@ -47,3 +47,8 @@
 >- Capoo will be keep up to date | Update every 1 week or so
 >>- Please do report any typing errors or unfunctional commands
 >---
+> | Developers        | Names       |  Status  |
+> | ------------- |:---------------:| --------:|
+> | Lead-1        | Asima-sama#9913 | Dms open |
+> | Lead-2        | Sheols-sama#5584| Dms open |
+>---
