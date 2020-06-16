@@ -39,3 +39,11 @@
 >- cp!Invite - Sends Capoo's Bot [Invite](https://discord.com/oauth2/authorize?client_id=721148644031725578&permissions=8&scope=bot)
 >- cp!ping - Shows Bot Ping / Display on message and Image
 >- cp!announcement - Get latest announcement from Capoo Bot Developers
+>
+>---
+> # Requirements and Notice
+>
+>- Administrator perms are required for Capoo to function properly
+>- Capoo will be keep up to date | Update every 1 week or so
+>>- Please do report any typing errors or unfunctional commands
+>---
