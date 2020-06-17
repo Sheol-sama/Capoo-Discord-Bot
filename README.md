@@ -51,6 +51,7 @@
 > | ------------- |:---------------:| --------:|
 > | Lead-1        | Asima-sama#9913 | Dms open |
 > | Lead-2        | Sheols-sama#5584| Dms open |
+> | Tester        |    LazyFoox     | Dms open |
 >---
 > ![image](https://fcbk.su/_data/stickers/bugcat_capoo/bugcat_capoo_08.png "image")
 >---
