@@ -37,7 +37,7 @@
 >- cp!facebook - Leads to Capoo original [Facebook](https://www.facebook.com/capoocat/)
 >- cp!website - Leads to our Bot [Website](https://capoo-bot.webnode.com/)
 >- cp!Invite - Sends Capoo's Bot [Invite](https://discord.com/oauth2/authorize?client_id=721148644031725578&permissions=8&scope=bot)
->- cp!ping - Shows Bot Ping / Display on message and Image
+>- cp!bot - Shows Bot Info / Display on embed
 >- cp!announcement - Get latest announcement from Capoo Bot Developers
 >
 >---
