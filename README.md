@@ -1,4 +1,4 @@
-> # Capoo Bot
+> # Capoo Bot <img align="middle" width="100" height="100" src="https://www.line-stickers.com/wp-content/uploads/2019/01/Bugcat-Capoo-Move-Move-.png">
 >---
 > Easy use with `Capoo`
 >> Capoo Bot [Website](https://capoo-bot.webnode.com/)
@@ -52,8 +52,7 @@
 > | Lead-1        | Asima-sama#9913 | Dms open |
 > | Lead-2        | Sheols-sama#5584| Dms open |
 > | Tester        |    LazyFoox     | Dms open |
->---
-> ![image](https://fcbk.su/_data/stickers/bugcat_capoo/bugcat_capoo_08.png "image")
+>
 >---
 > > Thank you for visiting our GitHub - Users!
 >---
