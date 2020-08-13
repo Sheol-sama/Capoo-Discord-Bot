@@ -51,7 +51,6 @@
 > | ------------- |:---------------:| --------:|
 > | Lead-1        | Asima-sama#7707 | Dms open |
 > | Lead-2        | Sheols-sama#5584| Dms open |
-> | Tester        |    LazyFoox     | Dms open |
 >
 >---
 > > Thank you for visiting our GitHub - Users!
