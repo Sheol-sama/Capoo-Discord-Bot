@@ -27,6 +27,14 @@
 >- cp!angry - Show your angriness / GIF
 >- cp!love - Show your love / GIF
 >- cp!pat - Pat a user / GIF
+>- cp!cry - Showing your sadness / GIF
+>- cp!dance - Dance emotes / GIF
+>- cp!hype - Hype emotes / GIF
+>- cp!gif - Shows common GIF
+>- cp!scared - Scared emotes
+>- cp!sad -  Display Sad emotes / GIF
+>- cp!yes - Show "Yes" emotes / GIF
+>- cp!no - Show "No" emotes / GIF
 >
 >---
 > # Utility Commands
