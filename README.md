@@ -1,4 +1,4 @@
-> # Capoo Bot <img align="middle" width="100" height="100" src="https://www.line-stickers.com/wp-content/uploads/2019/01/Bugcat-Capoo-Move-Move-.png">
+> # Capoo Bot <img align="middle" width="100" height="80" src="https://www.line-stickers.com/wp-content/uploads/2019/01/Bugcat-Capoo-Move-Move-.png">
 >---
 > Easy use with `Capoo`
 >> Capoo Bot [Website](https://capoo-bot.webnode.com/)
